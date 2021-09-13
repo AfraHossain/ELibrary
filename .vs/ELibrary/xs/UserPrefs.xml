@@ -1,0 +1,38 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{DFFAA217-1587-49F0-AB53-3FCC44257621}|Default">
+  <MonoDevelop.Ide.ItemProperties.ELibrary PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/BookController.cs">
+    <Files>
+      <File FileName="Models/SeedData.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" />
+      <File FileName="Controllers/BookController.cs" Line="1" Column="1" />
+      <File FileName="Areas/Identity/Pages/Account/Manage/PersonalData.cshtml" />
+      <File FileName="Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml" />
+      <File FileName="Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.cs" />
+      <File FileName="Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml" />
+      <File FileName="Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ELibrary" expanded="True">
+            <Node name="ELibrary" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Book" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

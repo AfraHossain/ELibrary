@@ -1,0 +1,1402 @@
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/appsettings.Development.json
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/appsettings.json
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/app.db
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ELibrary.deps.json
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ELibrary.runtimeconfig.json
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ELibrary.runtimeconfig.dev.json
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ELibrary.Views.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Humanizer.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.csproj.AssemblyReference.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.AssemblyInfoInputs.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.AssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.csproj.CoreCompileInputs.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.Manifest.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/scopedcss/bundle/ELibrary.styles.css
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.TagHelpers.input.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.TagHelpers.output.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorCoreGenerate.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.csproj.CopyComplete
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/ELibrary.genruntimeconfig.cache
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/UserProfile/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/afrahossain/Projects/ELibrary/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Create.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Delete.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Details.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Edit.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Index.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/appsettings.Development.json
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/appsettings.json
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/app.db
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ELibrary.StaticWebAssets.xml
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ELibrary.deps.json
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ELibrary.runtimeconfig.json
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ELibrary.runtimeconfig.dev.json
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ELibrary.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ref/ELibrary.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ELibrary.pdb
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ELibrary.Views.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ELibrary.Views.pdb
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Humanizer.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/saiham/Projects/ELibrary/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.csproj.AssemblyReference.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.AssemblyInfoInputs.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.AssemblyInfo.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.csproj.CoreCompileInputs.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.Manifest.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.xml
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/scopedcss/bundle/ELibrary.styles.css
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.TagHelpers.input.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.TagHelpers.output.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorCoreGenerate.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Create.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Delete.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Details.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Edit.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Book/Index.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/UserProfile/Index.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.Views.pdb
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.csproj.CopyComplete
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.dll
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ref/ELibrary.dll
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.pdb
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/ELibrary.genruntimeconfig.cache
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/saiham/Projects/ELibrary/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/appsettings.Development.json
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/appsettings.json
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/app.db
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.deps.json
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.runtimeconfig.json
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.runtimeconfig.dev.json
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.Views.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Humanizer.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/afrahossain/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.csproj.AssemblyReference.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.AssemblyInfoInputs.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.AssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.csproj.CoreCompileInputs.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.Manifest.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/scopedcss/bundle/ELibrary.styles.css
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.TagHelpers.input.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.TagHelpers.output.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorCoreGenerate.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Create.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Delete.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Details.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Edit.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.csproj.CopyComplete
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.genruntimeconfig.cache
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/appsettings.Development.json
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/appsettings.json
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.StaticWebAssets.xml
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/app.db
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.deps.json
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.runtimeconfig.json
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.runtimeconfig.dev.json
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ref/ELibrary.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.pdb
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.Views.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ELibrary.Views.pdb
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Humanizer.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/saiham/Projects/ELibrary 2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.AssemblyInfoInputs.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.AssemblyInfo.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.csproj.CoreCompileInputs.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.Manifest.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.xml
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/scopedcss/bundle/ELibrary.styles.css
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.TagHelpers.input.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.TagHelpers.output.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorCoreGenerate.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Create.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Delete.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Details.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Edit.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Book/Index.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cs
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.Views.pdb
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.csproj.CopyComplete
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.dll
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ref/ELibrary.dll
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.pdb
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.genruntimeconfig.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/ELibrary.csproj.AssemblyReference.cache
+/Users/saiham/Projects/ELibrary 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Books.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/appsettings.Development.json
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/appsettings.json
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/app.db
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ELibrary.deps.json
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ELibrary.runtimeconfig.json
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ELibrary.runtimeconfig.dev.json
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ELibrary.Views.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Humanizer.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/afrahossain/Projects/ELibrary 2 2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.csproj.AssemblyReference.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.AssemblyInfoInputs.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.AssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.csproj.CoreCompileInputs.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.Manifest.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/scopedcss/bundle/ELibrary.styles.css
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.TagHelpers.input.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.TagHelpers.output.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.RazorCoreGenerate.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Books.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Book/Create.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Book/Delete.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Book/Details.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Book/Edit.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Book/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.csproj.CopyComplete
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/ELibrary.genruntimeconfig.cache
+/Users/afrahossain/Projects/ELibrary 2 2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Test.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/appsettings.Development.json
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/appsettings.json
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/app.db
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ELibrary.deps.json
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ELibrary.runtimeconfig.json
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ELibrary.runtimeconfig.dev.json
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ELibrary.Views.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Humanizer.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/afrahossain/Projects/ELibrary new/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.csproj.AssemblyReference.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.AssemblyInfoInputs.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.AssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.csproj.CoreCompileInputs.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.Manifest.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/scopedcss/bundle/ELibrary.styles.css
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.TagHelpers.input.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.TagHelpers.output.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.RazorCoreGenerate.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Books.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Test.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Book/Create.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Book/Delete.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Book/Details.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Book/Edit.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Book/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.csproj.CopyComplete
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary new/obj/Debug/net5.0/ELibrary.genruntimeconfig.cache
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/appsettings.Development.json
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/appsettings.json
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/app.db
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ELibrary.deps.json
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ELibrary.runtimeconfig.json
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ELibrary.runtimeconfig.dev.json
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ELibrary.Views.dll
+/Users/afrahossain/Projects/ELibrary /bin/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.csproj.AssemblyReference.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.AssemblyInfoInputs.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.AssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.csproj.CoreCompileInputs.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.MvcApplicationPartsAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.RazorAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.Manifest.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/staticwebassets/ELibrary.StaticWebAssets.xml
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/scopedcss/bundle/ELibrary.styles.css
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.TagHelpers.input.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.TagHelpers.output.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.RazorCoreGenerate.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Books.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Test.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Book/Create.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Book/Delete.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Book/Details.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Book/Edit.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Book/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cache
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.RazorTargetAssemblyInfo.cs
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.Views.pdb
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.csproj.CopyComplete
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ref/ELibrary.dll
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.pdb
+/Users/afrahossain/Projects/ELibrary /obj/Debug/net5.0/ELibrary.genruntimeconfig.cache

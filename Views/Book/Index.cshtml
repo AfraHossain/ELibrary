@@ -1,0 +1,122 @@
+@model IEnumerable<ELibrary.Models.Book>
+
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+
+@{ ViewData["Title"] = "Index"; }
+<style>
+    body {
+        background-color: #FFFAFA;
+    }
+</style>
+<img width="100" src="Images/free-opened-book.png"/> <h1>Book Inventory</h1>
+
+
+&nbsp;
+
+<form asp-controller="Book" asp-action="Index">
+    <p>
+        Search by Title: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" class="btn btn-outline-warning" />
+    </p>
+</form>
+@if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+{
+<p>
+    <a asp-action="Create">Add New Book</a>
+</p>}
+
+<table class="table table table-hover table-bordered">
+    
+      <thead>
+         <tr class="bg-danger">
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Format)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Language)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublishDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Edition)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Holding)
+            </th>
+            <th></th>
+          </tr>
+      </thead>
+   
+    <tbody>
+        @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+        {
+@foreach (var item in Model)
+{
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Title)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Author)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Format)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Language)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.PublishDate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Edition)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Holding)
+    </td>
+    <td>
+        <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+        <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+        <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+    </td>
+</tr>} }
+else
+{
+@foreach (var item in Model)
+{
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Title)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Author)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Format)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Language)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.PublishDate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Edition)
+    </td>
+    <td>
+            @Html.DisplayFor(modelItem => item.Holding)
+        </td>
+    <td>
+        <a asp-action="Details" asp-route-id="@item.ID">Details</a>
+    </td>
+</tr>}}
+    </tbody>
+</table>
